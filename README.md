@@ -1,0 +1,1 @@
+# soichiro-hattori.github.io
