@@ -33,6 +33,7 @@
     &:hover {
       opacity: 1;
     }
+    padding-right: 2rem;
   }
 
   @include breakpoint($x-large) {
