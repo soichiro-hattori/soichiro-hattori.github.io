@@ -33,12 +33,12 @@
     &:hover {
       opacity: 1;
     }
-    padding-right: 20rem;
+    padding-right: 2rem;
   }
 
   @include breakpoint($x-large) {
     max-width: $sidebar-link-max-width;
-    padding-right: 20rem;
+    padding-right: 2rem;
   }
 
   h2, h3, h4, h5, h6 {
