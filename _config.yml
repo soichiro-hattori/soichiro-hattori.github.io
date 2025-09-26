@@ -84,7 +84,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'First Author Papers'
+  # Nth_author_manuscripts:
+  #   title: "N-th Author Papers"
   conferences:
     title: 'Conference Papers'
 
