@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /
 title: "Hi, I'm So."
 author_profile: true
 redirect_from: 
